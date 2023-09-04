@@ -1,0 +1,9 @@
+{
+    "name": "TF2_Hitmarker_sfx",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/razorburn71/TF2_Hitmarker_sfx.git",
+    "description": "This_mod_includes_default_beepo_electro_note_percussion_retro_space_squasher_vortex.",
+    "dependencies": [
+        "NotEnoughPhotons-Hitmarkers-2.7.0"
+    ]
+}
